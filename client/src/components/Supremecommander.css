@@ -1,0 +1,12 @@
+.lol
+{
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 50vh !important;
+}
+
+.stickylol
+{
+    position: sticky;
+    top:0;
+}
